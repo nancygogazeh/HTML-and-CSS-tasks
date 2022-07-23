@@ -1,0 +1,263 @@
+
+
+
+
+
+.a{
+    border:solid;
+    background-color: white;
+    color: black;
+    font-size: smaller;
+    width: 60%;
+    float: left;
+    margin-bottom: 20px;
+
+}
+
+#id{
+    background-color:orange;
+}
+#idtwo{
+
+    background-color:orange;
+}
+#idthree{
+    background-color:yellow;
+
+}
+
+
+
+
+
+
+
+
+
+.b{
+    border:solid;
+    background-color: white;
+    color: black;
+    font-size: smaller;
+    width: 60%;
+    float: left;
+    margin-bottom: 20px;
+
+}
+
+
+
+
+#idfour{
+    background-color:orange;
+}
+#idfive{
+
+    background-color:yellow;
+}
+
+
+
+.c{
+    border:dotted;
+    border-color: red;
+    background-color: white;
+    color: red;
+    font-size: smaller;
+    width: 60%;
+    float: left;
+    margin-bottom: 20px;
+
+}
+
+#idsix{
+
+    background-color:yellow;
+}
+#idseven{
+    background-color:yellow;
+
+}
+
+#p{
+    border: dotted;
+   border-color: red;
+
+    
+}
+
+#heading1{
+    color: red;
+}
+
+.container div
+{
+
+display: inline-block;
+font-size: medium;
+width: 25%;
+background-color: white;
+margin-right: 120px;
+margin-bottom: 20px;
+
+}
+
+p{
+font-size: 25px;
+
+
+
+}
+
+.cont div {
+float: left;
+width: 30%;
+margin-right: 200px;
+margin-bottom: 70px;
+background-color: white;
+font-size: medium;
+}
+
+.onee{
+
+    float: right;
+    margin-right: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:x-large ;
+     
+}
+#div3{
+
+
+    font-weight: lighter;
+    float:right;
+}
+#dum{
+position: fixed;
+top:20%;
+left:80%;
+width: 200px;
+height: 600px;
+
+
+}
+.yellow{
+
+border: 1px solid black ;
+display: inline-block;
+margin-bottom: 10px;
+width: 20px;
+height: 20px;
+background-color: yellow;
+}
+.green{
+
+    border: 1px solid black ;
+    display: inline-block;
+    margin-top: 10px;
+
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    }
+
+    .box{
+display: inline-block;
+
+
+
+    }
+    .odd{
+border : solid black 1px;
+width:30px;
+height:20px;
+background-color: red;
+display: inline-block;
+
+
+
+    }
+
+    .even {
+        border : solid black 1px;
+        width:30px;
+        height:20px;
+        background-color: red;
+        display:none;
+        visibility: hidden;
+       
+        
+      
+            }
+
+
+            .num{
+
+                
+display :inline-block;
+color: white;
+text-align: center;
+
+
+
+            }
+
+        th{
+           border:2px solid black ;
+            padding: 10px;
+            margin: 10px;
+            box-shadow: 5px 10px 10px rgb(22, 13, 13) ;
+            border-radius: 10px;
+            border-spacing: 10px;
+            float:left;
+
+        }
+  .div1{
+
+display: inline-block;
+position: absolute;
+width: 50%;
+
+  }
+
+
+
+
+
+
+
+
+
+
+        .div2{
+border: solid 5px green;
+display: inline-block;
+width: auto;
+margin:300px;
+
+        }
+        .div3{
+border:solid 5px yellow;
+display: inline-block;
+
+
+
+
+        }
+        .div4{
+            border: solid 5px green;
+            display: inline-block;
+            
+
+        }
+
+        .div5{
+
+border: solid 5px yellow;
+background-color: green;
+color: white;
+text-align: center;
+padding: 30px;
+display: inline-block;
+        }
+        
