@@ -1,0 +1,50 @@
+th{
+width: 100px;
+height: 100px;
+
+    font-size: medium;
+    background-color: rgb(172, 203, 237);
+    border-color: white;
+}
+
+td{
+
+    font-size: medium;
+    background-color:   #d6eaf1;
+    border-color: white;
+    text-align: center;
+
+}
+
+
+.green{
+margin: 20px;
+    border-color: white;
+text-align: center;
+background-color: rgb(169, 230, 169);
+
+
+}
+#m{
+    background-color: rgb(94, 170, 94);
+    text-align: center;
+
+}
+.blue{
+width:30px;
+height: 30px;
+background-color: #91c4d5;
+border-color: white;
+text-align: left;
+
+
+}
+
+.one{
+
+    background-color: #66a8be;
+border-color: white;
+text-align: center;
+height: 30px;
+
+}
